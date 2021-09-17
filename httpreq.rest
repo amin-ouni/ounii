@@ -1,0 +1,12 @@
+
+# GET  http://localhost:3000/students/5
+
+# POST http://localhost:3000/add
+# Content-Type: application/json
+
+# {
+#   "name":"maradona",
+#   "id":"12"
+
+# }
+
